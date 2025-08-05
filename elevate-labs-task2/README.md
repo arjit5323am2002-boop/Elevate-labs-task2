@@ -47,5 +47,5 @@ elevate-labs-task2/
 
 Here’s what the Beautiful Todo List looks like:
 
-![Todo List Screenshot](/proj-view.png)
+![Todo List Screenshot](proj-view.png)
 
